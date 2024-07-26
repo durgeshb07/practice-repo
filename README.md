@@ -1,3 +1,5 @@
 # practice-repo
 Hello this is my first repo.
-Author- Durgesh B
+Author- Durgesh B name
+
+
